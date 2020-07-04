@@ -1,7 +1,9 @@
 # 3DPCBoy - Build your own handheld gaming platform
+This is the OG branch with round switches and flat piezo speaker. The master branch is using more common components.
 
-This is the github repository containing the 3D models for the 3DPCBoy project:
+This repository contains the 3D models for the 3DPCBoy project:
 https://vonkonow.com/wordpress/2020/01/3dpcboy-build-your-own-handheld-gaming-platform/
+
 
 Description:
 The 3DPCBoy is a project I have been working on during my spare time for a couple of months. It originated as a test to see how a 3D printer can replace the need for a PCB and over tons of iterations, it has evolved to the 3DPCBoy – a cute handheld Arduboy compatible gaming device that cost around $10, is easy to build and fun to play with.
