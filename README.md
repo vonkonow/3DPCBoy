@@ -1,5 +1,7 @@
 # 3DPCBoy - Build your own handheld gaming platform
 
+![image](3DPCBoy.png)
+
 This is the github repository containing the 3D models for the 3DPCBoy project:
 https://vonkonow.com/wordpress/2020/01/3dpcboy-build-your-own-handheld-gaming-platform/
 
