@@ -1,4 +1,6 @@
 # 3DPCBoy - Build your own handheld gaming platform
+![Image](OG3DPCBoy.png)
+
 This is the OG branch with round switches and flat piezo speaker. The master branch is using more common components.
 
 This repository contains the 3D models for the 3DPCBoy project:
